@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Kopoklesz 👋
+
+- 🔧 Currently working on: private projects
+- 💻 Tech: Java / Python / whatever
+- 📍 Based in Hungary
 
 <!--
 **Kopoklesz/Kopoklesz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
