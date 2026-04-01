@@ -1,7 +1,7 @@
 ## Hi, I'm Kopoklesz 👋
 
 - 🔧 Currently working on: private projects
-- 💻 Tech: Java / Python / whatever
+- 💻 Tech: Java / Python / JavaScript / C++ / C / Lua / Dart
 - 📍 Based in Hungary
 
 <!--
