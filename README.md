@@ -1,8 +1,11 @@
 ## Hi, I'm Kopoklesz 👋
 
-- 🔧 Currently working on: private projects
-- 💻 Tech: Java / Python / JavaScript / C++ / C / Lua / Dart
-- 📍 Based in Hungary
+* 🔧 Currently working on: a mobile application focused on smart shopping decisions
+* 💻 Tech: Java / Python / JavaScript / C++ / C / Lua / Dart
+* 📍 Based in Hungary
+
+Currently building a mobile app that helps users make more informed purchasing decisions.
+
 
 <!--
 **Kopoklesz/Kopoklesz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
